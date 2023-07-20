@@ -12,8 +12,11 @@
         <input type="text" name="Nombre" id="">
         <label for="Contrasena">Contraseña</label>
         <input type="text" name="Contrasena" id="">
+        <label for="Correo">Correo Electronico</label>
+        <input type="email" name="Correo" id="">
         <input type="submit" value="Enviar">
         <input type="reset" value="Borrar">
+        <a href="../inicio/login.php">Iniciar Sesion</a>
     </form>
 </body>
 </html>
